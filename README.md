@@ -1,3 +1,7 @@
+Nama : Bagus Nararya Nanda Raditya
+NIM : 42030064
+
+
 # navigation
 
 A new Flutter project.
